@@ -1,0 +1,8 @@
+# Ignore build output files
+**/bin
+**/obj
+SpeedTestLogger/.vs/SpeedTestLogger/v15/Server/sqlite3/storage.ide-wal
+SpeedTestLogger/.vs/SpeedTestLogger/v15/Server/sqlite3/storage.ide
+SpeedTestLogger/.vs/SpeedTestLogger/v15/.suo
+SpeedTestLogger/.vs/SpeedTestLogger/v15/Server/sqlite3/db.lock
+SpeedTestLogger/.vs/SpeedTestLogger/v15/Server/sqlite3/storage.ide-shm
